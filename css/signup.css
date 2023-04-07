@@ -1,0 +1,58 @@
+body{
+    background-color: #62548b;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+    text-align: center;
+    margin-top: 10%;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.form{
+    text-align: center;
+    border: 1px solid white;
+    width: 40vw;
+    height: 50vh;
+    margin-left: 30%;
+    border-radius: 10px;
+    box-shadow: 1px 1px 2px 2px white;
+}
+form{
+    margin-top: 4%;
+}
+input{
+    width: 17vw;
+    height: 6vh;
+    margin-top: 1%;
+    border: 1px solid #62548b;
+    border-radius: 10px;
+}
+::placeholder{
+    color: #62548b;
+    text-align: center;
+}
+.signup{
+    width: 13vw;
+    height: 6vh;
+    margin-top: 1.5%;
+    border: 1px solid #62548b;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #62548b;
+    font-weight: bold;
+}
+.signup:hover{
+    font-size: 15px;
+}
+.link{
+    text-align: left;
+    margin-left: 5%;
+    color: whitesmoke;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: black;
+}

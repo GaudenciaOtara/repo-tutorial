@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.navigation{
+    margin-top: 0;
+    background-color: #62548b;
+    width: 100%;
+    height:10vh;
+    position: fixed;
+    border: 1px solid #62548b;
+    box-shadow: 1px 1px 1px 1px#62548b ;
+}
+p{
+    margin-top: 0;
+}
+.side-dash{
+    /* margin-top: 0.5%; */
+    width: 13vw;
+    background-color: #62548b;
+    height: 90vh;
+    /* border: 1px solid white; */
+}
